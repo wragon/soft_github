@@ -3,6 +3,7 @@
 
 int main(){
 		printf("hello world\n");
+		printf("second line\n");
 		func();
 
 		return 0;
